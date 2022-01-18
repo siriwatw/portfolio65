@@ -17,8 +17,8 @@ h1 {
 h2 {
   font-size: 30px;
 }
-a:hover {
-  color:#FA4616;
+a {
+  color: #fa4616;
   text-decoration: underline;
 }
 
