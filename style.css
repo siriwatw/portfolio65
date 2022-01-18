@@ -17,6 +17,10 @@ h1 {
 h2 {
   font-size: 30px;
 }
+a:hover {
+  color:#FA4616;
+  text-decoration: underline;
+}
 
 #header {
   background-color:#c0392b;
